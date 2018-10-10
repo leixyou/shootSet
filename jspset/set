@@ -10,3 +10,7 @@ Error Based SQL Injection: 80 test cases, implemented in 76 jsp pages (GET & POS
 Blind SQL Injection: 46 test cases, implemented in 44 jsp pages (GET & POST )
 
 Time Based SQL Injection: 10 test cases, implemented in 10 jsp pages (GET & POST )
+
+
+2.https://waf.ninja/
+bypass waf on many shoot environment
